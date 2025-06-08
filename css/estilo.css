@@ -1,8 +1,32 @@
-.body {
+body {
     background-image: url(https://i.pinimg.com/736x/3f/58/c4/3f58c4baf9cc36e55ba25941b815e3cb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: "Borel", cursive;
     font-weight: 400;
     font-style: normal;
+}
+/**/
+.fa-person-hiking {
+    color: #f79b93;
+}
+/*contacto*/
+.yo {
+    border-radius: 100%;
+}
+.container__contacto {
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+/*footer*/
+.footer {
+    padding: 20px;
+}
+.rrss a {
+    text-decoration: none;
+}
+.rrss i, p {
+    display: block;
+    padding: 10px;
+    color: #f79b93;
 }
