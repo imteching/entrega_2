@@ -109,6 +109,17 @@ h3 {
 }
 /*pagina rutas*/
 /*pagina blog*/
+.blog__info {
+    height: 150px;
+    overflow: scroll;
+}
+@media (min-width: 900px) {
+    .blog__info {
+        height: auto;
+        overflow: inherit;
+    }
+}
+
 /*pagina contacto*/
 .yo {
     border-radius: 100%;
